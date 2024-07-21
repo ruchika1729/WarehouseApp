@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "446571576289",
+    "firebase_url": "https://divueensapp-default-rtdb.firebaseio.com",
+    "project_id": "divueensapp",
+    "storage_bucket": "divueensapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446571576289:android:3e33dca2bd2a27c5cb30a0",
+        "android_client_info": {
+          "package_name": "com.example.warehouseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdIKKTRcjk6HPTA7Yq3EYSdQ4Esz5z_qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446571576289:android:61e457954561c367cb30a0",
+        "android_client_info": {
+          "package_name": "com.project.camerax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdIKKTRcjk6HPTA7Yq3EYSdQ4Esz5z_qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
